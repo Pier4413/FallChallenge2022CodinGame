@@ -130,3 +130,14 @@ dmypy.json
 
 #VSCode
 .vscode
+/target/
+/.project
+/.classpath
+/bin/
+.factorypath
+/.settings/
+.pydevproject
+src/main/resources/view/node_modules/
+src/main/resources/view/graphics/
+statement_en.html
+statement_fr.html
